@@ -16,7 +16,9 @@
 --   * 1 Advanced Peripheral Colony Integrator
 --   * 1 Advanced Peripheral ME Bridge
 --   * 1 Chest or other storage container
-
+--
+-- Doesn't work for NBT Items atm
+--
 --------------------------
 -- Init
 --------------------------
